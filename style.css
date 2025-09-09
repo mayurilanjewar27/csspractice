@@ -1,0 +1,28 @@
+body{
+    background-color: #ffeee6; 
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    font-size:26px;
+    color: #ff854d;
+    margin-left: 20px;
+}
+.navbar{
+    background-color: #ff7433;
+    padding:5px 20px;
+}
+.nav-item{
+    margin:0 10px;
+    color: #000;
+}
+.btn{
+    border: none;
+    border-radius: 50px;
+    padding: 5px 20px;
+    margin:15px;
+}
+.btn-primary{
+    background-color: #ff7433;
+    color: #fff;
+}
